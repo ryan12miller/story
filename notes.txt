@@ -1,0 +1,22 @@
+CMD Line
+
+git init
+
+	Initialized empty git repository in directory
+
+git status
+
+	No commits yet
+
+git add file.txt
+git status
+
+	No commits yet
+	Changes to be commited file.txt (In staging area)
+
+git commit -m "message"
+
+
+
+
+		
