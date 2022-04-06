@@ -17,6 +17,40 @@ git status
 git commit -m "message"
 
 
+git diff
+
+	View changes saved in working directory from last git state
+
+git checkout file.txt 
+
+	Rollback changes to last git commit
+
+head hash = current hash
+
+Adding to github
+
+	Add repository
+
+git remote add origin https://github.com/ryan12miller/story.git (story = name)
+git push -u origin master
+
+
+CREATE A BRANCH
+
+git branch branch-name
+
+git checkout branch-name --> switch to new branch
+
+*while on master brnach*
+git merge branch-name
+
+*opens vim*
+:q!
+
+
+
+
+
 
 
 		
